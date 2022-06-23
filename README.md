@@ -6,4 +6,5 @@ Repositório para armazenar os desfios de projetos
 - [Dillinger - Editor online Markdown](https://dillinger.io/)
 - Teste conflito
 - Teste conflito GitHub
+- Teste conflito alterações locais
 
