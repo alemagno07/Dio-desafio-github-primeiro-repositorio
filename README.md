@@ -7,4 +7,5 @@ Repositório para armazenar os desfios de projetos
 - Teste conflito
 - Teste conflito GitHub
 - Teste conflito alterações locais
+- Teste conflito 3
 
