@@ -4,8 +4,3 @@ Repositório para armazenar os desfios de projetos
 ### Links úteis
 - [Sintax básica sobre Markdown](https://www.markdownguide.org/)
 - [Dillinger - Editor online Markdown](https://dillinger.io/)
-- Teste conflito
-- Teste conflito GitHub
-- Teste conflito alterações locais
-- Teste conflito 3
-
